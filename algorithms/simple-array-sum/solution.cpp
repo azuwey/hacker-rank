@@ -1,3 +1,8 @@
+/**
+ * Author: Zarandi David (Azuwey)
+ * Date: 09/16/2020
+ * Source: HackerRank - https://www.hackerrank.com/challenges/simple-array-sum
+ **/
 #include <bits/stdc++.h>
 
 using namespace std;

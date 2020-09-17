@@ -1,3 +1,8 @@
+/**
+ * Author: Zarandi David (Azuwey)
+ * Date: 09/16/2020
+ * Source: HackerRank - https://www.hackerrank.com/challenges/solve-me-first
+ **/
 #include <algorithm>
 #include <iostream>
 #include <vector>
